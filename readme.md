@@ -8,7 +8,7 @@
 
 [基本概念](docs/base#基本概念)
 
-[页面组态](docs/page#页面组态)
+[页面组态](docs/page.md#页面组态)
 
 [数据流](docs/link#数据流)
 
