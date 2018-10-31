@@ -4,6 +4,8 @@
 
 ## [简介](docs/index#简介)
 
+## [启动运行](docs/run#启动运行)
+
 ## [入门示例](docs/start#入门示例)
 
 ## [基本概念](docs/base#基本概念)
