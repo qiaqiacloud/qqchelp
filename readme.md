@@ -20,7 +20,7 @@
 
 ## [数据联动](docs/link#数据联动)
 
-## [资源](docs/sysres#资源)
+## [系统资源](docs/sysres#资源)
 
    [通信类](docs/sysres_tx.md#通信)
    
