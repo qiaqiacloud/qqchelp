@@ -22,12 +22,12 @@
 
 ## [资源](docs/sysres#资源)
 
-   [通信](docs/sysres_tx.md#通信)
+   [通信类](docs/sysres_tx.md#通信)
    
-   [存储](docs/sysres_cc.md#存储)
+   [存储类](docs/sysres_cc.md#存储)
    
-   [信号](docs/sysres_xh.md#信号)
+   [信号类](docs/sysres_xh.md#信号)
    
-   [编程](docs/sysres_bc.md#编程)
+   [编程类](docs/sysres_bc.md#编程)
    
-   [常量](docs/sysres_cl.md#常量)
+   [常量类](docs/sysres_cl.md#常量)
