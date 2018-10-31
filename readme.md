@@ -2,13 +2,13 @@
 
 物联网集成开发环境 - CAT▪IOT▪IDE
 
-## [简介](docs/index#简介)
+## [简介](docs/index.md#简介)
 
-## [启动运行](docs/run#启动运行)
+## [启动运行](docs/run.md#启动运行)
 
-## [入门示例](docs/start#入门示例)
+## [入门示例](docs/start.md#入门示例)
 
-## [基本概念](docs/base#基本概念)
+## [基本概念](docs/base.md#基本概念)
 
 ## [页面组态](docs/page.md#页面组态)
   
