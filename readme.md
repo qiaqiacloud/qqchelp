@@ -10,11 +10,12 @@
 
 ## [页面组态](docs/page.md#页面组态)
   
+  
   [布局形状](docs/page_bj.md#布局形状)
   
   [控件](docs/page_kj.md#控件)
   
-  [软设](docs/page_rs.md#软设)
+  [软设组件](docs/page_rs.md#软设组件)
   
 
 ## [数据联动](docs/link#数据联动)
